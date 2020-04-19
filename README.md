@@ -27,6 +27,9 @@ Desired Skills:
 
 ## Notes:
 ### How To...
+#### Pull the latest code for this repo from Github (should probably do this everytime)
+Open the `Terminal` app (or from VS Code) and do `git pull origin master` (I know it can be more complicated than that so probably should understand this better...)
+
 #### Open VS Code (IDE for writing code):
 Open the `Code - OSS (headmelted)` app
 
