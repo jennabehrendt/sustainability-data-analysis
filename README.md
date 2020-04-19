@@ -1,7 +1,8 @@
 # sustainability-data-analysis
+Thanks to [HaywardMorihara](https://github.com/HaywardMorihara) for help getting started!
 
 ## Goal:
-Learn the skills necessary for a role where which requires sourcing and/or analysis of data for making decisions. With a particular interest in environmental/energy data.
+Learn the skills necessary for a role that requires sourcing and/or analysis of data for making decisions. With a particular interest in environmental/energy data.
 
 Desired Skills:
 - Coding basics (variables, types, control-flow, prints, functions, classes, libraries
@@ -15,7 +16,7 @@ Desired Skills:
 ## To Do/Learn:
 - Basic Python/coding tutorials
 - Communicating with a database
-    - https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43
+    - Try https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43
 - Data analysis exercise
 - Find interesting data
 - Find interesting datasets
@@ -40,7 +41,7 @@ To run a Python script, do `python <SCRIPT_FILE>` (make sure terminal is in the 
 Open the `Terminal` app (or from VS Code) and type `psql` and press Enter. 
 
 #### Push code to Github:
-Open the `Terminal app (or from VS Code) and do:
+Open the `Terminal` app (or from VS Code) and do:
 - `git add .`
 - `git commit -m "<DESCRIPTION_OF_CHANGES>"`
 - `git push origin master`
@@ -52,10 +53,8 @@ Steps taken to install Python, PostgreSQL on [my Lenovo C330 Chromebook](https:/
 
 Documenting in case I need to reference how I set up things in the future, or in case it helps anybody else.
 
-Thanks to [HaywardMorihara](https://github.com/HaywardMorihara) for help getting started!
-
 ### Installing Linux
-Following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en)
+Followed [these steps](https://support.google.com/chromebook/answer/9145439?hl=en)
 
 ### Installing Git
 Git was already installed upon starting up the Linux terminal. Just needed to [configure my Github account](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) and start this repo.
