@@ -5,7 +5,7 @@ Thanks to [HaywardMorihara](https://github.com/HaywardMorihara) for help getting
 Learn the skills necessary for a role that requires sourcing and/or analysis of data for making decisions. With a particular interest in environmental/energy data.
 
 Desired Skills:
-- Coding basics (variables, types, control-flow, prints, functions, classes, libraries
+- Coding basics (variables, types, control-flow, prints, functions, classes, libraries)
 - Database analysis/maintenance
 - Automation of dataset analysis
 - Web scraping
@@ -15,14 +15,43 @@ Desired Skills:
 
 ## To Do/Learn:
 - Basic Python/coding tutorials
+  - https://pythonbasics.org/ was my favorite, but https://www.learnpython.org/ or https://www.w3schools.com/python/ might be good
+  - Essential Exercises:
+    - https://pythonbasics.org/variables/
+    - https://pythonbasics.org/strings/
+    - https://pythonbasics.org/keyboard-input/
+    - https://pythonbasics.org/if-statements/
+    - https://pythonbasics.org/for-loops/
+    - https://pythonbasics.org/while-loop/
+    - https://pythonbasics.org/functions/
+    - https://pythonbasics.org/list/
+    - https://pythonbasics.org/list-operations/
+    - https://pythonbasics.org/dictionary/
+    - https://pythonbasics.org/read-file/
+    - https://pythonbasics.org/scope/
+  - [Nathaniel's Exercise](#Nathaniel's Exercise) (see below)
 - Communicating with a database
-    - Try https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43
+  - Try https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43
 - Data analysis exercise
 - Find interesting data
 - Find interesting datasets
 - Making HTTP requests
 - Web scraping
 - Populating database with data from the internet
+
+### Nathaniel's Exercise:
+Reading from the data held in the [data.csv](data.csv), output the oldest building in the dataset.
+
+_Tip: You will most likely want to use Python's `split()` function where:_
+```python
+x="hello,world"
+x.split(",")
+```
+_will output a list with two strings:_
+
+`['hello', 'world']`
+
+Bonus: Output the 3 oldest buildings
 
 
 ## Notes:
