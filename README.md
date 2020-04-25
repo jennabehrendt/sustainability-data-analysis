@@ -29,7 +29,7 @@ Desired Skills:
     - https://pythonbasics.org/dictionary/
     - https://pythonbasics.org/read-file/
     - https://pythonbasics.org/scope/
-  - [Nathaniel's Exercise](#Nathaniel's Exercise) (see below)
+  - [Nathaniel's Exercise](#nathaniel's-exercise) (see below)
 - Communicating with a database
   - Try https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43
 - Data analysis exercise
