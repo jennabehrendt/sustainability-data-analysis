@@ -30,6 +30,8 @@ Desired Skills:
     - https://pythonbasics.org/read-file/
     - https://pythonbasics.org/scope/
   - [Nathaniel's Exercise](#nathaniels-exercise) (see below)
+  - Importing Libraries (TO FIND)
+  - [Object-Oriented Programming](https://pythonbasics.org/#OOP)
 - Communicating with a database
   - Try https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43
 - Data analysis exercise
