@@ -1,3 +1,4 @@
 *.iml
 personal_notes.md
 .idea
+#put file names you don't want uploaded to git hub
